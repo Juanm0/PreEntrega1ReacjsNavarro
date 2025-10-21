@@ -1,3 +1,8 @@
+# NPM INSTALL
+
+To run this proyect, download the zip file in github, then, in the terminal run: npm install, npm start
+(profe esto lo hice en ingles yo mismo, parece real no? ajaj)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
